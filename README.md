@@ -43,6 +43,4 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://0xhaleema.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/></a>
-  <a href="https://theforensicdesk.gumroad.com"><img src="https://img.shields.io/badge/TheForensicDesk-000?style=for-the-badge&logo=gumroad&logoColor=ff90e8"/></a>
-  <!-- Apna LinkedIn/Twitter/Instagram link yahan add karo -->
 </p>
