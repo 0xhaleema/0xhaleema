@@ -32,8 +32,11 @@
 
 ### 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/0xhaleema/registry-forensic-tool">
-    <img src="https://github-readme-stats-puce-two-79.vercel.app/api/pin/?username=0xhaleema&repo=registry-forensic-tool&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/0xhaleema/m57-jean-forensic-investigation">
+    <img src="https://github-readme-stats-puce-two-79.vercel.app/api/pin/?username=0xhaleema&repo=m57-jean-forensic-investigation&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/0xhaleema/JPass_Secure">
+    <img src="https://github-readme-stats-puce-two-79.vercel.app/api/pin/?username=0xhaleema&repo=JPass_Secure&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
