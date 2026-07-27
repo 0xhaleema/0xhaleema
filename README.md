@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xhaleema&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=0xhaleema&theme=tokyonight&hide_border=true" />
+ [ <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xhaleema&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=0xhaleema&theme=tokyonight&hide_border=true" />](https://github-readme-stats-eight-theta.vercel.app/api?username=0xhaleema&show_icons=true&theme=tokyonight&hide_border=true)
 </p>
 
 ---
