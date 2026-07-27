@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haleema</h1>
-<h3 align="center">Cybersecurity Student | DFIR & SOC Enthusiast | Founder @TheForensicDesk</h3>
+<h3 align="center">Cybersecurity Student | DFIR & SOC Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Digital+Forensics+%26+Incident+Response;Blue+Team+%7C+SOC+Analysis;Building+%40TheForensicDesk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Digital+Forensics+%26+Incident+Response;Blue+Team+%7C+SOC+Analysis" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,6 @@
 ### 🧠 About Me
 - 🎓 BS Cybersecurity student at **Air University Kamra Campus**
 - 🔍 Focused on **Digital Forensics & Incident Response (DFIR)** and **SOC** roles
-- 🎯 Aiming for **PKCERT** and **NCCIA**
-- ✍️ Sharing cybersecurity content through **TheForensicDesk**
 - 🌱 Currently exploring registry forensics, SIEM correlation, and network security
 
 ---
